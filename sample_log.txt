@@ -1,0 +1,6 @@
+INFO: User logged in
+ERROR: TIMEOUT while connecting to DB
+INFO: Request received
+ERROR: 404 Not Found
+ERROR: TIMEOUT while connecting to DB
+INFO: Task completed

@@ -1,0 +1,6 @@
+LOG ANALYSIS REPORT
+Total lines: 6
+Total errors: 3
+Error breakdown:
+ERROR:: 3
+TIMEOUT: 2
